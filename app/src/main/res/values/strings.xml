@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CompaniesTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_title">Type and Search</string>
+    <string name="string_address">Address:</string>
+    <string name="action_show_on_map">Show on map</string>
+    <string name="choose_address">Choose address:</string>
+    <string name="delete">Delete company?</string>
+    <string name="yes">Delete</string>
+    <string name="no">Cancel</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="add_new">New Company</string>
+    <string name="done">Done</string>
+    <string name="company_inserted_before">Company "</string>
+    <string name="company_inserted_after">" added!</string>
+    <string name="address">Address</string>
+    <string name="address_added">Address added!</string>
+    <string name="enter_name">Please, enter company name!</string>
+
+</resources>
